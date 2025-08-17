@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-17 02:16:59,http://139.196.151.191:2051/rtp/239.45.3.145:5140
+2025-08-17 14:19:10,http://139.196.151.191:2051/rtp/239.45.3.145:5140
 
 ,#genre#
 
@@ -392,10 +392,18 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 ☘️辽宁频道,#genre#
 
 ☘️湖南频道,#genre#
+湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
 湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
 湖南经视,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
+湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
+湖南教育,http://php.jdshipin.com:8880/iptv.php?id=hnjy
+湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
 湖南娱乐,http://116.128.242.83:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
 湖南公共,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://139.196.151.191:2051/rtp/239.45.1.45:5140
 金鹰纪实,http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -464,6 +472,8 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎬电影频道,#genre#
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 黑莓电影,http://[2409:8087:1:20:20::27]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E kBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
