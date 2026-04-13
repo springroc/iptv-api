@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/# 测试用频道列表.png" group-title="🕘️更新时间",2026-04-13 02:34:53
+#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/# 测试用频道列表.png" group-title="🕘️更新时间",2026-04-13 15:49:42
 http://110.53.54.122:808/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://110.53.54.122:808/hls/62/index.m3u8
